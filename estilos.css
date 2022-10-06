@@ -1,0 +1,89 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+ }
+.fondo{
+    background-image: url(./img/fondo.jpg)
+}
+
+.titulo{
+    font-size: 35px;
+    margin-left: 6%;
+    padding: 1%;
+    
+    font-style: italic;
+    position: center;
+    color: black;
+}
+.intro{
+    font-size: 25px;
+    margin-left: 20%;
+    padding: 1%;
+    font-style: italic;
+    position: center;
+    color: black;
+}
+/*.caja{
+    margin-top: 18%;
+    font-size: 20px;
+    margin-left: 500px;
+    margin-right:500px;
+    padding: 1%;
+    font-style: italic;
+    background-color: rgba(13, 243, 82, 0.348);
+    position: center;
+    color: black;
+    width: 400px; 
+    margin: 0 auto;
+}*/
+.contenido{
+    width: 400px; 
+    margin: 0%;
+    margin-left: 35%;
+    margin-top: 10%;
+    background:rgba(14, 206, 133, 0.519) ;
+
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+    border-radius: 28px 28px 28px 28px;
+    -moz-border-radius: 28px 28px 28px 28px;
+    -webkit-border-radius: 28px 28px 28px 28px;
+    border: 0px solid #000000;
+}
+.c1{
+    width: 60%;
+    padding-bottom: 20px;
+    text-align: center;
+    padding-left: 20px;
+    font-size: 25px;
+}
+
+.c2{
+    width: 40%;
+    padding-bottom: 10px 10px 10px 10px;
+    text-align: right;
+}
+.custom-btn {
+    width: 100x;
+    height: 40px;
+    padding: 10px 25px;
+    border: 2px solid #000;
+    border-radius: 10%;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+}
+footer{
+    margin-top: 18%;
+    padding: 1%;
+    font-size: 25px;
+    font-style: italic;
+    background-color: rgba(13, 243, 82, 0.348);
+    text-align: center;
+}
+
