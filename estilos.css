@@ -18,8 +18,8 @@
 }
 .intro{
     font-size: 25px;
-    margin-left: 20%;
-    padding: 1%;
+    margin-left: 35%;
+    margin-top: 6%;
     font-style: italic;
     position: center;
     color: black;
@@ -44,7 +44,7 @@
     margin-top: 10%;
     background:rgba(14, 206, 133, 0.519) ;
 
-    padding-top: 30px;
+    padding-top: 20px;
     padding-right: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
